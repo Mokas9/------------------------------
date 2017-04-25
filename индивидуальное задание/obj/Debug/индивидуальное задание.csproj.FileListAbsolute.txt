@@ -1,0 +1,16 @@
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\bin\Debug\индивидуальное задание.exe.config
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\bin\Debug\индивидуальное задание.exe
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\bin\Debug\индивидуальное задание.pdb
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное задание.csprojResolveAssemblyReference.cache
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное_задание.Form1.resources
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное_задание.Properties.Resources.resources
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное задание.csproj.GenerateResource.Cache
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное задание.exe
+d:\all from c\documents\visual studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное задание.pdb
+D:\All from C\Documents\Visual Studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное_задание.Form2.resources
+D:\All from C\Documents\Visual Studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное_задание.Form3.resources
+D:\All from C\Documents\Visual Studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное_задание.Form4.resources
+D:\All from C\Documents\Visual Studio 2015\Projects\индивидуальное задание\индивидуальное задание\obj\Debug\индивидуальное_задание.Form5.resources
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[АРМ Поступления абитуриентов]\индивидуальное задание\bin\Debug\индивидуальное задание.exe.config
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[АРМ Поступления абитуриентов]\индивидуальное задание\obj\Debug\индивидуальное задание.exe
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\[АРМ Поступления абитуриентов]\индивидуальное задание\obj\Debug\индивидуальное задание.pdb
